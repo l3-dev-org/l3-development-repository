@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="L3TeamDBModel" id="ACFBD3D2-32D4-D5A7-CAC2-09C29DBEA653" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2022-08-04 19:33:56 UTC</createdTime>
+<ownerDesignName>L3TeamDBModel</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>ACFBD3D2-32D4-D5A7-CAC2-09C29DBEA653</designId>
+</OSDM_Design>
